@@ -21,7 +21,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Sul sito", URL = "/about/", HasChildren = false},
         {Name = "Post", URL = "/posts/", Pre = "Recenti", HasChildren = true, Limit = 5},
     ]
 
@@ -37,7 +37,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # instagram_url = "https://instagram.com"
     # facebook_url = "https://facebook.com"
     # flickr_url = "https://flickr.com"
-    telegram_url = "https://telegram.org"
+    # telegram_url = "https://telegram.org"
     email_url = "mailto://user@domain"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines

@@ -1,5 +1,5 @@
 +++
-title = 'Le peripezie per far hostare il sito'
+title = "Le peripezie per l'hosting del sito"
 date = 2023-10-17T11:12:46+02:00
 series = 'gestione sito web'
 description = 'Riuscire a hostare il sito seguendo il processo che volevo si è rivelato tortuoso. In questo articolo ripercorro i vari passi, analizzando cosa è andato storto.'
