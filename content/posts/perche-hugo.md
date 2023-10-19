@@ -108,7 +108,7 @@ Ora che il sito funziona, posso dedicarmi ad esplorare altre funzionalità di Hu
 
 Dopo aver gestito questo sito per un paio di settimane ed aver imparato a rompere niente, mi imbarcherò in un progetto più complesso. 
 
-## Tutto bello ma...cosa voglio farci con questo blog?
-Penso che scriverò cose di non frega niente a nessuno. Sarà una specie di diario online su certe cose che penso navigando online.
+## Tutto bello ma...quindi?
+Penso che scriverò cose di cui non frega niente a nessuno. Sarà una specie di diario online su certe cose che penso navigando online.
 
 Il blog da content marketer purosangue quale sono lo farò quando avrò preso dimestichezza con Hugo; immagino a breve. Lo linkerò comunque.
