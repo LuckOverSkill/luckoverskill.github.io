@@ -6,7 +6,7 @@ description = 'Uno dei miei progetti correnti è studiare letteratura, per capir
 tags = ['personale', 'letteratura']
 +++
 
-Da qualche anno sono un lettore assiduo, ma non ho mai pensato troppo a ciò che leggevo. Sì, classici, con le loro profonde lezioni di vita. Non disdegnavo neanche romanzi più contemporanei. Ma leggevo senza cognizione di causa. Leggevo tanto per leggere. Attività utile? Sicuramente meglio che fissare lo schermo di un PC aspettando che accadesse qualcosa.
+Da qualche anno sono un lettore assiduo, ma non ho mai pensato troppo a ciò che leggevo. Sì, classici, con le loro profonde lezioni di vita, e anche romanzi più contemporanei. Ma leggevo senza cognizione di causa. Leggevo tanto per leggere. Attività utile? Sicuramente meglio che fissare lo schermo di un PC aspettando che accadesse qualcosa.
 
 Eppure, qualcosa non mi tornava. Mi sembrava che mancasse qualcosa. Le storie mi accattivavano, i personaggi mi sembravano vivi, reali. E non perché si comportassero come persone che conosco, non tutti perlomeno, bensì perché riconoscevo i loro comportamenti come umani. Come potevano questi esseri senza volto (perché di persone senza volto si tratta, non importa quanto precise fossero le loro descrizioni fisiche) farmi sentire come appartenente all'umanità? Cosa c'era in quelle storie che mi muoveva e mi faceva appassionare allo svolgersi della trama? 
 
