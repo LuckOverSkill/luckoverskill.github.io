@@ -14,5 +14,6 @@ Ora voglio spendere un paio di parole sulla navigazione del sito:
 - Se vuoi vedere i tag del sito, c'è la pagina [tag](/tags)
 - Ogni post ha dei tag cliccabili per vedere tutti gli altri post che condividono il tag in questione.
 - Creerò anche delle serie di post. Quando ne avrò creata una apparirà nella pagina [serie](/series).
+- Per i miei appunti sui libri, c'è la pagina [libri](/libri)
 
 Questo dovrebbe essere tutto. Ci sono dei link nella barra qui a sinistra per contattarmi.

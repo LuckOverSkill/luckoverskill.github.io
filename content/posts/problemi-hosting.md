@@ -6,6 +6,8 @@ description = 'Riuscire a hostare il sito seguendo il processo che volevo si è 
 tags = ['Hugo', 'tecnologia']
 +++
 
+## Introduzione
+
 Per riuscire a hostare il sito come lo volevo e col sistema che volevo, ossia:
 
 1. Creare nuovo post col comando `hugo new`

@@ -6,6 +6,8 @@ description = 'Uno dei miei progetti correnti è studiare letteratura, per capir
 tags = ['personale', 'letteratura']
 +++
 
+## Introduzione
+
 Da qualche anno sono un lettore assiduo, ma non ho mai pensato troppo a ciò che leggevo. Sì, classici, con le loro profonde lezioni di vita, e anche romanzi più contemporanei. Ma leggevo senza cognizione di causa. Leggevo tanto per leggere. Attività utile? Sicuramente meglio che fissare lo schermo di un PC aspettando che accadesse qualcosa.
 
 Eppure, qualcosa non mi tornava. Mi sembrava che mancasse qualcosa. Le storie mi accattivavano, i personaggi mi sembravano vivi, reali. E non perché si comportassero come persone che conosco, non tutti perlomeno, bensì perché riconoscevo i loro comportamenti come umani. Come potevano questi esseri senza volto (perché di persone senza volto si tratta, non importa quanto precise fossero le loro descrizioni fisiche) farmi sentire come appartenente all'umanità? Cosa c'era in quelle storie che mi muoveva e mi faceva appassionare allo svolgersi della trama? 
@@ -49,7 +51,7 @@ Ora che ho stabilito il perché, voglio discutere il come. Fortunatamente, la cr
 ## Come condurrò lo studio
 Scrivere aiuta a chiarire le idee e a ricordarle. Ho questo sito che fa da spazio personale, perché non sfruttarlo? Mi permette anche di condividere facilmente con gli altri cosa sto imparando e a cosa sto pensando.
 
-Per cui l'idea è quella di condurre investigazioni scritte su ciò che sto leggendo. Ovviamente prima dovrò leggere i 4 libri che ho elencato sopra e prendere appunti, che condividerò [qui](/appunti-libri/). Poi usare ciò che imparo per condurre analisi per i fatti miei.
+Per cui l'idea è quella di condurre investigazioni scritte su ciò che sto leggendo. Ovviamente prima dovrò leggere i 4 libri che ho elencato sopra e prendere appunti, che condividerò [qui](/libri/). Poi usare ciò che imparo per condurre analisi per i fatti miei.
 
 Da quel che ho visto è un attimo esagerare con le analisi dei libri. Non tutto è un simbolo, ma vediamo quel che vogliamo vedere, quindi dovrò stare attento. 
 

@@ -6,6 +6,8 @@ description = 'Esplorando i motivi che mi hanno portato a spendere ore che mi sa
 tags = ['personale', 'esplorazione', 'tecnologia']
 +++
 
+## Introduzione
+
 Con la moltitudine di strumenti disponibili oggi per creare un sito web, la maggior parte plug and play, viene da chiedersi perché io abbia deciso di usare un metodo meno basilare — *Hugo* per i curiosi — e complicarmi la vita.
 
 Avrei potuto creare un blog simile su WordPress e risparmiarmi 4-5 ore di lavoro, mantenendo le stesse funzionalità.
