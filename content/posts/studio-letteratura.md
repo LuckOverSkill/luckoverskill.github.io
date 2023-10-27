@@ -12,7 +12,7 @@ Da qualche anno sono un lettore assiduo, ma non ho mai pensato troppo a ciò che
 
 Eppure, qualcosa non mi tornava. Mi sembrava che mancasse qualcosa. Le storie mi accattivavano, i personaggi mi sembravano vivi, reali. E non perché si comportassero come persone che conosco, non tutti perlomeno, bensì perché riconoscevo i loro comportamenti come umani. Come potevano questi esseri senza volto (perché di persone senza volto si tratta, non importa quanto precise fossero le loro descrizioni fisiche) farmi sentire come appartenente all'umanità? Cosa c'era in quelle storie che mi muoveva e mi faceva appassionare allo svolgersi della trama? 
 
-L'ho scoperto di recente, dopo aver scoperto il libro *How to read literature like a professor* di Thomas Foster.
+L'ho scoperto di recente, dopo aver letto il libro *How to read literature like a professor* di Thomas Foster.
 
 ## La realizzazione e il sollievo
 Il libro di Foster mi ha aperto un mondo. O meglio, ha riportato alla superficie un mondo che già viveva nel mio inconscio. *How to read literature like a professor* parla del significato della letteratura. Di come molto di ciò che leggiamo e apprezziamo sia un riferimento ai miti delle origini, che a loro volta sono allegorie per spiegare il comportamento umano e i fenomeni naturali. 

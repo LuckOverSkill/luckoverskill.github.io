@@ -4,8 +4,9 @@ date = 2023-10-20T17:09:58+02:00
 series = ''
 description = "Appunti sul libro \"L'eroe dai mille volti\" di Joseph Campbell"
 tags = ['Letteratura']
+draft = true
 +++
-eee
+
 ## Introduzione
 *L'eroe dai mille volti* è un libro scritto da Joseph Campbell nel 1949. La tesi principale del libro è contenuta nel titolo: l'eroe è sempre lo stesso, ne cambia solamente la faccia. Per difendere la tesi, Campbell paragona i miti delle origini delle varie mitologie e religioni, le storie popolari, e la letteratura delle popolazioni.
 
