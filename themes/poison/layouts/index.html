@@ -1,5 +1,9 @@
 {{ define "main" -}}
-<div class="posts">
+<div class="custom-homepage">
+    <!-- Your custom homepage content goes here -->
+    {{ .Content }}
+</div>
+<!-- <div class="posts">
     {{ $frontPageTypes := default (slice "posts") .Site.Params.front_page_content }}
     {{ range (.Paginate (where .Site.RegularPages "Type" "in" $frontPageTypes)).Pages }}
     <article class="post">
@@ -13,5 +17,5 @@
     </article>
     {{- end }}
 </div>
-{{ partial "pagination.html" . }}
+{{ partial "pagination.html" . }} -->
 {{- end }}
