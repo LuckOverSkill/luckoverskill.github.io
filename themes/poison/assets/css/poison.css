@@ -106,12 +106,17 @@ body {
     height: 100vh;
 }
 body > .wrapper {
+    justify-content: center; /* Center the wrapper on the main axis */
+    align-items: flex-start; /* Align items to the start on the cross axis */
     display: flex;
     height: 100%;
+    padding 0 1rem;
 }
 .container.content {
     overflow-y: auto;
     flex-grow: 1;
+    max-width: 1000px; /* Set a max-width for the content */
+    margin: 0 auto; /* Auto margins on the sides centers the block */
 }
 .layout-reverse .container.content {
     padding-right: 0;
