@@ -7,7 +7,7 @@ tags = ['']
 draft = false
 +++
 
-# Welcome to my dominion
+# Welcome!
 Heya, I am Walter Moraschinelli. I am a content writer with a (very original, I know) passion for writing and literature. I also am fascinated by computers, but I will read just about anything that piques my curiosity, which is...most things.
 
 On this website I plan to write about two things: 
