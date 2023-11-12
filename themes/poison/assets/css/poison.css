@@ -101,25 +101,47 @@ h1, h2, h3, h4, h5, strong {
     background-color: var(--moon-sun-background-color);
 }
 /* ************************** */
+
+/* THIS IS THE ORIGINAL CODE*/
+
+/*
 body {
-    overflow: auto; /* Allow scrolling on the body */
-    /* height: 100vh; Remove or comment this out to allow for natural page height */
+    overflow: hidden;
+    height: 100vh;
 }
+body > .wrapper {
+    display: flex;
+    height: 100%;
+}
+.container.content {
+    overflow-y: auto;
+    flex-grow: 1;
+}*/
 
 body > .wrapper {
     display: flex;
-    justify-content: center; /* Center the wrapper on the main axis */
-    /* height: 100%; Remove or comment this out to allow the wrapper to grow with the content */
-    padding: 0 1rem; /* Add some padding on the sides */
+    justify-content: center; /* Center the flex container */
+    align-items: flex-start; /* Align items to the start of the cross axis */
+    height: 100%;
+    padding: 0; /* Remove any default padding */
 }
 
 .container.content {
-    overflow-y: auto; /* Allow vertical scrolling within the content container */
-    flex-grow: 1;
-    max-width: 1200px; /* Set a max-width for the content */
-    margin: 0 auto; /* Auto margins on the sides centers the block */
-    width: 100%; /* Ensure the content takes up its container's width up to max-width */
+    max-width: 900px; /* Maximum width of the content area */
+    width: 100%; /* Ensure it takes up the available space */
+    margin-left: 18rem; /* Space for the sidebar */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
+
+.sidebar {
+    width: 18rem; /* Fixed sidebar width */
+    position: fixed; /* Sidebar position fixed to the viewport */
+    top: 0;
+    left: 0;
+    bottom: 0;
+    overflow-y: auto; /* Allow scrolling on the sidebar */
+}
+
 
 /* Update the media queries as necessary to reflect these changes */
 
