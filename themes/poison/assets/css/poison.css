@@ -102,22 +102,27 @@ h1, h2, h3, h4, h5, strong {
 }
 /* ************************** */
 body {
-    overflow: hidden;
-    height: 100vh;
+    overflow: auto; /* Allow scrolling on the body */
+    /* height: 100vh; Remove or comment this out to allow for natural page height */
 }
+
 body > .wrapper {
-    justify-content: center; /* Center the wrapper on the main axis */
-    align-items: flex-start; /* Align items to the start on the cross axis */
     display: flex;
-    height: 100%;
-    padding 0 1rem;
+    justify-content: center; /* Center the wrapper on the main axis */
+    /* height: 100%; Remove or comment this out to allow the wrapper to grow with the content */
+    padding: 0 1rem; /* Add some padding on the sides */
 }
+
 .container.content {
-    overflow-y: auto;
+    overflow-y: auto; /* Allow vertical scrolling within the content container */
     flex-grow: 1;
-    max-width: 1000px; /* Set a max-width for the content */
+    max-width: 1200px; /* Set a max-width for the content */
     margin: 0 auto; /* Auto margins on the sides centers the block */
+    width: 100%; /* Ensure the content takes up its container's width up to max-width */
 }
+
+/* Update the media queries as necessary to reflect these changes */
+
 .layout-reverse .container.content {
     padding-right: 0;
     padding-left: 2rem;

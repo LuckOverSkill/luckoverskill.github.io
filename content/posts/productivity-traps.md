@@ -101,6 +101,16 @@ Content creators pull 3 levers to catch us into their content net:
 
 I simply stopped watching these content creators. I have nothing against them per se — I just think that what they need to do to sustain their video production doesn't align with the intrinsic goal of what they talk about.
 
+Incidentally, I just stumbled upon this video: 
+
+{{< youtube 83ERdF4MMHo >}}
+
+At around 1:30, he says this:
+
+>you get on Twitter you get on YouTube and you see a lot of that stuff and it's become a battle of getting clicks and likes and Views versus putting out good information 
+
+That's the unfortunate reality of content creation in 2023.
+
 ## How can I be productive then?
 Obviously, we collectively struggle to be productive, else the entire productivity industry wouldn't exist. There are, in fact, hundreds of other avenues where a gain in productivity is promised as a collateral effect. It's evident we are trying our best to become more productive.
 
