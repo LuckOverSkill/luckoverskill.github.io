@@ -26,3 +26,4 @@ Coming soon™:
 - A list of [best posts](placeholder) (yes, I will decide which are my best posts, though I am installing analytics, so it'll be a popularity contest, at least partially)
 - More posts, obviously
 - Perhaps I'll link my Twitter one of these days, if I ever bother with using it
+- A well thought out [syllabi](../syllabi/) list
