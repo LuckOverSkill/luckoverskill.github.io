@@ -7,9 +7,6 @@ series = ""
 draft = false
 +++
 
-
-[test](../../syllabi/theology-mysticism-syllabus)
-
 I've been thinking about this topic a lot recently. Why is it that every website has become so commercialized?
 
 Take social media. I see people posting the most stupid takes on Twitter to farm engagement. Without fail, they are Twitter Blue users who are there to "build and monetize their audience". Which really means posting caustic sentences to get support from people who believe "wow this person gets me!" 
