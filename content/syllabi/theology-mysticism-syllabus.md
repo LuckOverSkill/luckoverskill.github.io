@@ -1,6 +1,6 @@
 +++
 title = "The Journey Through Theology and Christian Mysticism — Course Introduction"
-date = 2023-11-11T11:08:13+01:00
+# date = 2023-11-11T11:08:13+01:00
 series = ""
 description = ""
 tags = ['']
